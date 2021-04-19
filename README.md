@@ -9,12 +9,12 @@ Installation
 
 Through [NPM](http://www.npmjs.org)
 ``` bash
-$ npm install hypdf
+$ npm install @ehp/hypdf
 ```
 
- or using Git
+or using Git
 ``` bash
-$ git clone git://github.com/treygriffith/hypdf.git node_modules/hypdf/
+$ git clone git://github.com/eugenehp/hypdf.git node_modules/hypdf/
 ```
 
 How to Use
